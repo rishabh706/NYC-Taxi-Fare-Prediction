@@ -27,7 +27,7 @@
 
 # Model Explainability
 
-1. Used Shapely values interpret the model
+1. Used Shapely values to interpret the model
 
 ![Screenshot from 2021-02-13 09-57-32](https://user-images.githubusercontent.com/37527532/107841596-283c2980-6de2-11eb-8418-0dc75d555303.png)
 
