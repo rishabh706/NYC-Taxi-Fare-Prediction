@@ -31,6 +31,10 @@
 
 ![shap_1](https://user-images.githubusercontent.com/37527532/107843024-9d612c00-6ded-11eb-8773-dccc072239e1.png)
 
+2. From the dependency plot it is clear that high values of distance have a positive impact on the fare where as lower value of distance brings the taxi fare down
+
+3. Similarly we can see that high values of year have a positive impact on the fare where as lower values of year brings the taxi fare down
+
 ![shap_2](https://user-images.githubusercontent.com/37527532/107843026-9e925900-6ded-11eb-836e-1174b015b45f.png)
 
 ![shap_3](https://user-images.githubusercontent.com/37527532/107843029-9fc38600-6ded-11eb-8e6c-cbe4c6bb1e61.png)
