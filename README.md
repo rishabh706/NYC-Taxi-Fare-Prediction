@@ -29,5 +29,10 @@
 
 1. Used Shapely values to interpret the model
 
-![Screenshot from 2021-02-13 09-57-32](https://user-images.githubusercontent.com/37527532/107841596-283c2980-6de2-11eb-8418-0dc75d555303.png)
+![shap_1](https://user-images.githubusercontent.com/37527532/107843024-9d612c00-6ded-11eb-8773-dccc072239e1.png)
+
+![shap_2](https://user-images.githubusercontent.com/37527532/107843026-9e925900-6ded-11eb-836e-1174b015b45f.png)
+
+![shap_3](https://user-images.githubusercontent.com/37527532/107843029-9fc38600-6ded-11eb-8e6c-cbe4c6bb1e61.png)
+
 
