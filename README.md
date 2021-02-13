@@ -2,12 +2,12 @@
 
 # Problem Statement
 
-1. To predict the fare amount based on latitude,longitude,passenger_count and other related features
+1. To predict the fare amount based on geographical and datetime features
 
 # Dataset Description
-1. The Dataset consists of 50,000 rows and 8 different columns(features)
+1. The dataset consists of 50,000 rows and 8 different columns(features)
 
-2. The Dataset is splitted into 80:20 ratio.80% of the data is kept for training and 20% for test
+2. The dataset is splitted into 80:20 ratio.80% of the data is kept for training and 20% for test
 
 # Approach Used
 
