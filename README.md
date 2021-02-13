@@ -11,13 +11,13 @@
 
 # Approach Used
 
-1. Used feature engineering to create new features out of existing features
+1. Used Feature Engineering to create new Features out of existing Features
 
 2. Trained Using Random Forest Algorithm
 
 3. Used GridSearch Hyperparameter Tuning to find the appropriate hyperparameters for Random Forest Algorithm
 
-4. Used K Fold Cross Validation to cross validate the model
+4. Used K Fold Cross Validation to Cross Validate the model
 
 # Results Achieved
 
