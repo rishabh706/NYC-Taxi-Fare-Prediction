@@ -7,7 +7,7 @@
 # Dataset Description
 1. The Dataset consists of 50,000 rows and 8 different columns(features)
 
-2. The Dataset is splitted into 80:20 ratio
+2. The Dataset is splitted into 80:20 ratio.80% of the data is kept for training and 20% for test
 
 # Approach Used
 
